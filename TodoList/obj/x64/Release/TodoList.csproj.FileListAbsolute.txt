@@ -1,0 +1,11 @@
+E:\VsProjects\TodoList\WindowsFormsApp3\obj\x64\Release\TodoList.csproj.AssemblyReference.cache
+E:\VsProjects\TodoList\WindowsFormsApp3\obj\x64\Release\TodoList.csproj.SuggestedBindingRedirects.cache
+E:\VsProjects\TodoList\WindowsFormsApp3\obj\x64\Release\TodoList.csproj.GenerateResource.cache
+E:\VsProjects\TodoList\WindowsFormsApp3\obj\x64\Release\TodoList.csproj.CoreCompileInputs.cache
+E:\VsProjects\TodoList\WindowsFormsApp3\bin\x64\Release\TodoList.exe.config
+E:\VsProjects\TodoList\WindowsFormsApp3\bin\x64\Release\TodoList.exe
+E:\VsProjects\TodoList\WindowsFormsApp3\bin\x64\Release\TodoList.pdb
+E:\VsProjects\TodoList\WindowsFormsApp3\obj\x64\Release\TodoList.Properties.Resources.resources
+E:\VsProjects\TodoList\WindowsFormsApp3\obj\x64\Release\TodoList.exe
+E:\VsProjects\TodoList\WindowsFormsApp3\obj\x64\Release\TodoList.pdb
+E:\VsProjects\TodoList\WindowsFormsApp3\obj\x64\Release\WindowsFormsApp3.TodoList.resources
